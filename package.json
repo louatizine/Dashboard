@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "lucide-react": "^0.288.0",
+    "mongoose": "^7.6.2"
+  }
+}
